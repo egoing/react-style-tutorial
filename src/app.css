@@ -1,3 +1,13 @@
 header {
   border-bottom: 1px solid gray;
 }
+nav {
+  border-right: 1px solid gray;
+}
+article {
+  padding: 1rem;
+}
+.content {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+}
